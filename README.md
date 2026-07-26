@@ -10,23 +10,13 @@ Special repository for the [organization profile README](https://docs.github.com
 |------|----------|
 | [profile/README.md](profile/README.md) | Visitors on https://github.com/openshellorg |
 | [profile/assets/](profile/assets/) | Logos for the profile README |
-| This file | Maintainers |
+| This file | Maintainers (ops only) |
 
-## Maintainer notes (not for the profile README)
+## Editing the public profile
 
-### Dev-Centr vs OpenShellOrg
+Edit [profile/README.md](profile/README.md). Keep it visitor-facing: what we are, where to start.
 
-Aligned with [Dev-Centr](https://github.com/dev-centr), but keep the orgs separate:
+Philosophy, Dev-Centr alignment, and the NVIDIA name-collision write-up live in the docs:
 
-- **Dev-Centr** recommends and configures (e.g. Nushell for developers).
-- **OpenShellOrg** standardizes and tools (SOS certification, companion libraries, progressive help).
-
-Do not merge the orgs; keep the division of labor clear in docs (see [shell-architecture](https://github.com/openshellorg/shell-architecture) and the [ecosystem page](https://openshellorg.github.io/open-shell-org/open-shell-org/ecosystem.html)).
-
-### Name collision
-
-OpenShellOrg is **not** [NVIDIA OpenShell](https://github.com/NVIDIA/OpenShell). Different problem domain. Keep a short visitor-facing disclaimer on the profile README; expand in project docs when needed.
-
-### Editing the public profile
-
-Edit [profile/README.md](profile/README.md). Keep it visitor-facing: what we are, where to start. Put internal alignment and process notes here instead.
+- https://openshellorg.github.io/open-shell-org/open-shell-org/philosophy.html
+- https://openshellorg.github.io/open-shell-org/shell-architecture/

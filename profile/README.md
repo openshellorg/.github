@@ -4,14 +4,22 @@
 
 # Open Shell Organization
 
-Standards and tooling for better shells and CLIs.
+Better shells. Better CLIs. Less friction.
 
-We work on predictable CLI flag syntax (**SOS**), progressive help, and companion libraries for [Nushell](https://www.nushell.sh/) structured pipelines.
+OpenShellOrg builds **standards and companion tooling** so command-line tools behave predictably — for humans and for automation.
 
-**Start here**
+### What we focus on
 
-- [Documentation](https://openshellorg.github.io/open-shell-org/) — SOS, architecture, and project guides
-- [Ecosystem map](https://openshellorg.github.io/open-shell-org/open-shell-org/ecosystem.html) — what each repo is for
-- [Org site](https://openshellorg.github.io/)
+- **SOS** — consistent flag syntax and certification (“Save Our Syntax”)
+- **Structured shells** — endorse [Nushell](https://www.nushell.sh/) typed pipelines instead of forcing stdout to be both a pipe and a display
+- **Progressive help** — readable, budgeted help instead of wall-of-text `--help`
 
-> Not related to [NVIDIA OpenShell](https://github.com/NVIDIA/OpenShell) (an agent sandbox runtime).
+### Start here
+
+| | |
+|---|---|
+| [Docs](https://openshellorg.github.io/open-shell-org/) | Specs, guides, and project documentation |
+| [Ecosystem](https://openshellorg.github.io/open-shell-org/open-shell-org/ecosystem.html) | Map of every OpenShellOrg project |
+| [Website](https://openshellorg.github.io/) | Org landing page |
+
+<sub>Not affiliated with [NVIDIA OpenShell](https://github.com/NVIDIA/OpenShell).</sub>

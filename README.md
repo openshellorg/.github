@@ -10,13 +10,15 @@ Special repository for the [organization profile README](https://docs.github.com
 |------|----------|
 | [profile/README.md](profile/README.md) | Visitors on https://github.com/openshellorg |
 | [profile/assets/](profile/assets/) | Logos for the profile README |
-| This file | Maintainers (ops only) |
+| This file | Maintainers / agents (ops only) |
 
-## Editing the public profile
+## Where content belongs
 
-Edit [profile/README.md](profile/README.md). Keep it visitor-facing: what we are, where to start.
+| Kind of writing | Put it here | Not here |
+|-----------------|-------------|----------|
+| Minimal “not vacant” profile | `profile/README.md` (logo + short pitch + links) | Restating org Settings, focus lists, start-here inventories |
+| Philosophy / Dev-Centr / name collision | Docs ([Philosophy](https://openshellorg.github.io/open-shell-org/open-shell-org/philosophy.html)) | Profile README, news feed |
+| Process directives for agents/coders | This file, `MEMORIES.md`, or repo `AGENTS.md` | Public news |
+| Newsworthy org milestones | [openshellorg.github.io news](https://openshellorg.github.io/news/) (`news/posts/*.adoc`) | Meta notes about where docs live |
 
-Philosophy, Dev-Centr alignment, and the NVIDIA name-collision write-up live in the docs:
-
-- https://openshellorg.github.io/open-shell-org/open-shell-org/philosophy.html
-- https://openshellorg.github.io/open-shell-org/shell-architecture/
+**News bar:** ship posts outsiders would care about (launch, shipped systems, public decisions). Skip “we moved a paragraph from A to B” unless the *outcome* is the story.

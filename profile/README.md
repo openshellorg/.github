@@ -4,10 +4,18 @@
 
 ---
 
+<p align="center">
 Better shells. Better CLIs. Less friction.
+</p>
 
+<p align="center">
 Standards and companion tooling so command-line tools behave predictably — for humans and for automation.
+</p>
 
-[Website](https://openshellorg.github.io/) · [News](https://openshellorg.github.io/news/) · [Docs](https://openshellorg.github.io/open-shell-org/)
+<p align="center">
+<a href="https://openshellorg.github.io/">Website</a> · <a href="https://openshellorg.github.io/news/">News</a> · <a href="https://openshellorg.github.io/open-shell-org/">Docs</a>
+</p>
 
-<sub>Not affiliated with [NVIDIA OpenShell](https://github.com/NVIDIA/OpenShell).</sub>
+<p align="center">
+<sub>Not affiliated with <a href="https://github.com/NVIDIA/OpenShell">NVIDIA OpenShell</a>.</sub>
+</p>

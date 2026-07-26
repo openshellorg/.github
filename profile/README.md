@@ -18,6 +18,7 @@ OpenShellOrg builds **standards and companion tooling** so command-line tools be
 
 | | |
 |---|---|
+| [News](https://openshellorg.github.io/news/) | Org updates and longer-form notes |
 | [Docs](https://openshellorg.github.io/open-shell-org/) | Specs, guides, and project documentation |
 | [Ecosystem](https://openshellorg.github.io/open-shell-org/open-shell-org/ecosystem.html) | Map of every OpenShellOrg project |
 | [Website](https://openshellorg.github.io/) | Org landing page |

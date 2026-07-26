@@ -4,11 +4,14 @@
 
 # Open Shell Organization
 
-Standards and tooling for better shells and CLIs — **not** [NVIDIA OpenShell](https://github.com/NVIDIA/OpenShell) (that's an agent sandbox runtime).
+Standards and tooling for better shells and CLIs.
 
-- **SOS** — flag syntax + certification in [open-shell-org](https://github.com/openshellorg/open-shell-org)
-- **Docs** — [openshellorg.github.io/open-shell-org](https://openshellorg.github.io/open-shell-org/)
-- **Site** — [openshellorg.github.io](https://openshellorg.github.io)
-- **Structured shells** — endorse [Nushell](https://www.nushell.sh/); see [shell-architecture](https://github.com/openshellorg/shell-architecture), [nu-require](https://github.com/openshellorg/nu-require), [nu-emit](https://github.com/openshellorg/nu-emit)
+We work on predictable CLI flag syntax (**SOS**), progressive help, and companion libraries for [Nushell](https://www.nushell.sh/) structured pipelines.
 
-Aligned with [Dev-Centr](https://github.com/dev-centr) (they recommend/configure; we standardize/tool).
+**Start here**
+
+- [Documentation](https://openshellorg.github.io/open-shell-org/) — SOS, architecture, and project guides
+- [Ecosystem map](https://openshellorg.github.io/open-shell-org/open-shell-org/ecosystem.html) — what each repo is for
+- [Org site](https://openshellorg.github.io/)
+
+> Not related to [NVIDIA OpenShell](https://github.com/NVIDIA/OpenShell) (an agent sandbox runtime).

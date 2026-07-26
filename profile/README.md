@@ -13,9 +13,5 @@ Standards and companion tooling so command-line tools behave predictably — for
 </p>
 
 <p align="center">
-<a href="https://openshellorg.github.io/">Website</a> · <a href="https://openshellorg.github.io/news/">News</a> · <a href="https://openshellorg.github.io/open-shell-org/">Docs</a>
-</p>
-
-<p align="center">
 <sub>Not affiliated with <a href="https://github.com/NVIDIA/OpenShell">NVIDIA OpenShell</a>.</sub>
 </p>

@@ -1,0 +1,86 @@
+= Changelog
+
+== 2026-11-20
+
+=== Docs template pointer
+
+* Record the suggested default docs template from dev-centr/agent-rules. The choice is a URL in this repo, not a pasted copy of the template.
+
+== 2026-10-06
+
+=== ci enable Dependabot for GitHub Actions (monthly, grouped)
+
+* ci: enable Dependabot for GitHub Actions (monthly, grouped)
+
+== 2026-10-05
+
+=== Repair double-encoded UTF-8 characters
+
+* Repair double-encoded UTF-8 characters.
+* Add encoding guard (UTF-8 mojibake check).
+
+== 2026-09-27
+
+=== profile point site/docs at openshorg; rewrite related-projec
+
+* profile: point site/docs at opensh.org; rewrite related-projects blurb
+* Merge pull request #1 from openshellorg/cursor/profile-opensh-org-links-c3bc
+* fix(profile): rename doc link to Shell pains
+* Merge pull request #2 from openshellorg/cursor/profile-shell-pains-link-4696
+
+== 2026-08-18
+
+=== Link dev-centr/agent-rules as a submodule so this org does n
+
+* Link dev-centr/agent-rules as a submodule so this org does not keep a second copy.
+* Point contributors to the org-level agent-rules repository.
+* Point contributors to org-level agent-rules wrapper repository.
+* Point contributors at the org overlay and canonical agent-rules.
+
+== 2026-08-01
+
+=== Add HCI Nerdz as sibling partner on org profile
+
+* Add HCI Nerdz as sibling partner on org profile
+
+== 2026-07-31
+
+=== Point org profile Docs links at /docs/ hub
+
+* Point org profile Docs links at /docs/ hub.
+
+== 2026-07-28
+
+=== Profile link Entrypoint Dispatch and DevCentr Toolchain Mana
+
+* Profile: link Entrypoint Dispatch and DevCentr Toolchain Management.
+
+== 2026-07-25
+
+=== Add OpenShellOrg brand assets and refresh the org profile RE
+
+* Add OpenShellOrg brand assets and refresh the org profile README.
+* Rewrite org profile for visitors; keep maintainer notes in repo README.
+* Rewrite org profile README for a visitor audience.
+* Point maintainers at docs for philosophy; keep this README ops-only.
+* Link News from the org profile README.
+* Simplify org profile README to a short pitch over the website.
+* Document where profile, docs, news, and agent directives belong.
+* Center-align org profile README body copy.
+* Drop redundant website/news/docs links from org profile README.
+
+== 2026-07-22
+
+=== docs broaden org profile for SOS and Nushell tracks
+
+* docs: broaden org profile for SOS and Nushell tracks
+
+== 2026-02-04
+
+=== Create READMEmd
+
+* Create README.md
+* Fix link to profile README path
+* Fix link format in README.md
+* Add README for Open Shell Organization
+

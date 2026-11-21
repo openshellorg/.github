@@ -22,3 +22,7 @@ Special repository for the [organization profile README](https://docs.github.com
 | Newsworthy org milestones | [openshellorg.github.io news](https://openshellorg.github.io/news/) (`news/posts/*.adoc`) | Meta notes about where docs live |
 
 **News bar:** ship posts outsiders would care about (launch, shipped systems, public decisions). Skip “we moved a paragraph from A to B” unless the *outcome* is the story.
+
+## Changelog
+
+See [CHANGELOG.adoc](CHANGELOG.adoc).
